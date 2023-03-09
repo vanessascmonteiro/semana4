@@ -1,0 +1,15 @@
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\bin\Debug\net7.0\exerciciobebidas.exe
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\bin\Debug\net7.0\exerciciobebidas.deps.json
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\bin\Debug\net7.0\exerciciobebidas.runtimeconfig.json
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\bin\Debug\net7.0\exerciciobebidas.dll
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\bin\Debug\net7.0\exerciciobebidas.pdb
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\obj\Debug\net7.0\exerciciobebidas.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\obj\Debug\net7.0\exerciciobebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\obj\Debug\net7.0\exerciciobebidas.AssemblyInfoInputs.cache
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\obj\Debug\net7.0\exerciciobebidas.AssemblyInfo.cs
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\obj\Debug\net7.0\exerciciobebidas.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\obj\Debug\net7.0\exerciciobebidas.dll
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\obj\Debug\net7.0\refint\exerciciobebidas.dll
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\obj\Debug\net7.0\exerciciobebidas.pdb
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\obj\Debug\net7.0\exerciciobebidas.genruntimeconfig.cache
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\semana4\exerciciobebidas\obj\Debug\net7.0\ref\exerciciobebidas.dll
