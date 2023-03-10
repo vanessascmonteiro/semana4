@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using exerciciobebidas;
+
 
 
 namespace exerciciobebidas
@@ -10,7 +10,7 @@ namespace exerciciobebidas
     public static class Menu 
        {
         
-        //public List <Bebida> ListaBebida {get; set;}
+        
         public static void DisplayInicial()
         {
             Console.Clear(); //Método que vai limpar os dados em tela
@@ -43,18 +43,16 @@ namespace exerciciobebidas
                 return Convert.ToInt32(Console.ReadLine());
                             
             }
-
             catch (Exception ex)
             {
                 Console.WriteLine("Opção com erro, selecione a opção correta");
+                Console.ReadLine();
+            }
 
-            }
             return DigiteOpcaoDesejada();
+        }
             
-            
-            }
-    
-             public static bool ReiniciarDisplayConsole()
+        public static bool ReiniciarDisplayConsole()
         {
             Console.WriteLine("\n");
             Console.WriteLine("*********************************************");
@@ -64,17 +62,21 @@ namespace exerciciobebidas
             Console.WriteLine("\n");
 
             Console.WriteLine("Opção :");
-
-            if (Convert.ToInt32(Console.ReadLine()) == 1)
-            {
-                Menu.DisplayInicial();
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
+          
+          if(Convert.ToInt32(Console.ReadLine())== 1)
+          {
+            Menu.DisplayInicial();
+            return true;
+          }
+          else 
+          {
+            return false;
+          }
+        }      
+             
+          
+    
+             
     }
 }
 
